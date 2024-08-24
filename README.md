@@ -290,10 +290,8 @@ Cette intégration vous permet d'accepter des paiements via CinetPay dans votre 
 
 ## Ressources
 
-Documentation officielle de CinetPay
-Laravel Documentation
-markdown
-Copier le code
+-   Documentation officielle de CinetPay
+-   Laravel Documentation
 
 ### Explications
 
@@ -303,7 +301,3 @@ Copier le code
 -   **Contrôleur de paiement** : Gère les demandes de paiement et les notifications.
 -   **Routes** : Décrit les routes nécessaires pour initier et recevoir les paiements.
 -   **Conclusion** : Finalise le processus et fournit des ressources supplémenta
-
-```
-
-```
